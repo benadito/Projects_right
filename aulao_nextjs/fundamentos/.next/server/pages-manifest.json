@@ -1,7 +1,18 @@
 {
   "/_app": "pages/_app.js",
+  "/api/clientes/[codigo]": "pages/api/clientes/[codigo].js",
+  "/api/clientes": "pages/api/clientes.js",
+  "/api/hello": "pages/api/hello.js",
+  "/cliente/[filial]/[codigo]": "pages/cliente/[filial]/[codigo].html",
+  "/estado": "pages/estado.html",
+  "/estatico": "pages/estatico.js",
+  "/estiloso": "pages/estiloso.html",
+  "/exemplo": "pages/exemplo.html",
+  "/": "pages/index.html",
+  "/integracao_1": "pages/integracao_1.html",
+  "/jsx": "pages/jsx.html",
+  "/navegacao": "pages/navegacao.html",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/estado": "pages/estado.js",
-  "/integracao_1": "pages/integracao_1.js"
+  "/404": "pages/404.html"
 }
